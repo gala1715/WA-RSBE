@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wa-rsbe"
+version = "0.1.0"
+description = "Warp-Aware Road Slope and Bank Estimation for off-road vehicles"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.24", "matplotlib>=3.7"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

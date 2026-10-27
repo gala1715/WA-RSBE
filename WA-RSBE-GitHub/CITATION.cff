@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite the associated WA-RSBE paper."
+title: "WA-RSBE: Warp-Aware Road Slope and Bank Estimation"
+type: software
+version: 0.1.0
+date-released: 2026-10-01
+authors:
+  - family-names: Li
+    given-names: Wei
+  - family-names: Ge
+    given-names: Linhe
+  - family-names: Yang
+    given-names: Jing
+  - family-names: Song
+    given-names: Ziyu
+  - family-names: Prajapat
+    given-names: Sunil
+  - family-names: Rodrigues
+    given-names: Joel J. P. C.
+  - family-names: Song
+    given-names: Houbing Herbert
+  - family-names: Han
+    given-names: Guangjie
+preferred-citation:
+  type: article
+  title: "Warp-Aware Road Slope and Bank Estimation for Hardcore Off-Road Vehicles Considering Non-Coplanar Wheel Contacts"
+  authors:
+    - family-names: Li
+      given-names: Wei
+    - family-names: Ge
+      given-names: Linhe
+    - family-names: Yang
+      given-names: Jing
+    - family-names: Song
+      given-names: Ziyu
+  year: 2026
